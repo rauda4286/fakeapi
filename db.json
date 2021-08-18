@@ -6,16 +6,7 @@
             "lastHash": "genesisHash",
             "signature": "",
             "timestamp": 0,
-            "transactions": [
-                {
-                    "amount": 100,
-                    "id": "f3bdb81cff1411ebb73efbc90a7d2342",
-                    "receiverPublicKey": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCz5GsVfnrZJdX+121CA8e2pa0s\nSDPIgAkWoruT29I14NYPnK77BwIxTxUFfa68BT5uLCqmrG3Et8mfSuNNhdhrJJOZ\nZVdKll5JEomvpLCmImbNPyWxjTA75w7R7cUeLL6oJh7UChKKrZs+T2/7WqpmGw7u\nO0OFWWc8/Eh3MD7ISwIDAQAB\n-----END PUBLIC KEY-----",
-                    "senderPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgy3Xj/OB2X08EKVhztSQ\nTdRMazEK8FGfTZ1tkIJG0RvKmscnZ8dydXRbSWVJVBfcv2X1SRH3vG7Y2Au2PKhB\nvbt4PFvXqxT2KtUa1siNfCwbyw9TB1bUUL/7bFPeREKkbvzFs+xyHHaTy5NwhQ4h\nlkj1NnLblVLcRkgxv9fRPb0sZUcvpufO8Cyclu3rwV7BpNPUPEER1AuYgzsPCGQU\neW7WKwQIk2W/8r27NPz/XuTykQyQ2e623wyYqaSl80wRKUO7XNwV9L+UTOr6DmrV\nFuclC59meSXnpK28Gaxn4ZyrVdrHz5Hk57SpImGtLFqdCXrk1VmGfXhwReevV7G+\neQIDAQAB\n-----END PUBLIC KEY-----",
-                    "signature": "01f2a25c2a4224ca9982c2f25e769117252acba797dc20a3ac578044e952886e679800d766bcb41760f2de18c5462dad9439b7cb7f88006da02fbfae70767cab695eac0876b13bbdcf9c16aef278faf76797c456785e3635a68feaad42a1bd3d73900962fda31221e76f233b472f483eb59ee9006843e337a0fdfd43dcc93a741a0146b95694ea338e5b23c4afdb27ce0561a8fcac3752f8e5074371b122fb58ea4bd2d9c87471de51b2cafe67013a37918df845218cf470e6b3401194f77dc2344bcc50c8c1356d8ea0c75bd886d4af808be6fea34e30e956e863a18ecf600ce02008064ffefce5110442abe7053638db3bd9437fb52c7134dfeab60167d1c9",
-                    "timestamp": 1629175101.8661156,
-                    "type": "EXCHANGE"
-                }]
+            "transactions": []
         },
         {
             "blockCount": 1,
